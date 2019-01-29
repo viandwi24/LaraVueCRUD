@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/viandwi24/LaraVueCRUD/master/Screenshot%20from%202019-01-30%2005.48.08.png"></p>
+
 ## Tentang
 
 CRUD Menggunakan Laravel 5.7 dan Vue 2.5 yang sangat sederhana dan simpel untuk dipelajari pemula sekalipun.
