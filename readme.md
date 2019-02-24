@@ -5,7 +5,10 @@
 CRUD Menggunakan Laravel 5.7 dan Vue 2.5 yang sangat sederhana dan simpel untuk dipelajari pemula sekalipun.
 
 ## Tutorial
-
+* Install Composer dan Nodejs (& npm)
+* Clone Git Ini atau Download Dalam Bentuk .zip dan Ekstrak (Ex : C:\laravue)
+* Masuk Ke CMD dan masuk ke folder laravue yang sudah diesktrak `cd c:\laravue`
+Lalu jalankan :
 * `composer install`
 * `npm install`
 * `php artisan key:generate`
